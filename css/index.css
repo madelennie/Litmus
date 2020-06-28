@@ -1,0 +1,29 @@
+body {
+    font-family: 'VT323', monospace;
+    color: green;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    font-size: 48px;
+}
+
+.firstButton, .one, .two, .bOne, .bTwo, .gback , .prompt {
+    text-align: center;
+    margin: 20px;
+    border: none;
+    background-color: black;
+    color: green;
+    font-family: 'VT323', monospace;
+    font-size: 32px;
+    outline:none;
+
+}
+
+#header {
+    letter-spacing: 15px;
+    font-size: 60px;
+}
+
+p {
+    font-size: 28px;
+}

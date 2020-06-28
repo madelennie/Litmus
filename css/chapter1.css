@@ -1,0 +1,45 @@
+.coffeemaker, .coffeeater, .type, .fcb, .ecp {
+    text-align: center;
+    margin: 20px;
+    border: none;
+    background-color: black;
+    color: green;
+    font-family: 'VT323', monospace;
+    font-size: 32px;
+}
+
+.cursor {
+    color: green;
+    font-size: 32px;
+}
+
+.cmd {
+    border: 5px solid green;
+    margin: 0 auto;
+    padding: 50px;
+    height: 100vh;
+    width: 500px;
+}
+
+.inp {
+    margin: 0 auto;
+    border: none;
+    outline: none;
+    background-color: black;
+    font-family: 'VT323', monospace;
+    color: green;
+    padding:10px;
+    width: 300px;
+    font-size: 24px;
+}
+
+.ul-type, .cli, .para, ul, li {
+    list-style-type: none;
+    text-align: center;
+    font-size: 32px;
+    color: green;
+}
+
+h2 {
+    font-size: 36px;
+}
