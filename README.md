@@ -1,10 +1,7 @@
-<i>:wrench: Under construction</i>
+<i>:wrench: This is a fun side-project under construction.</i>
 
 <h1>Back to the 80's! :space_invader:</h1>
 
 <h2>:floppy_disk: Remember those terminal based games like IF (Interactive fiction)?</h2>
 
 <p>This is a retro-game based mostly on Javascript. You are starting the day making coffee - and what happens?</p>
-
-
-<i>:wrench: This is a fun side-project under construction.</i>
